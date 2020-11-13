@@ -1,0 +1,25 @@
+{
+  "name": "bpmify",
+  "version": "1.0.0",
+  "description": "NPM package to determine BPM programatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xlayton/bpmify.git"
+  },
+  "keywords": [
+    "bpm"
+  ],
+  "author": "Clayton Schrumpf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xlayton/bpmify/issues"
+  },
+  "homepage": "https://github.com/Xlayton/bpmify#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
